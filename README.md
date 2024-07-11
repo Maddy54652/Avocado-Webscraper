@@ -1,3 +1,5 @@
 # Avocado Webscraper
 
-This is a basic webscraper I wrote for my senior capstone. I decided to give it its own repository because I like this project and I want to build on it more in the future.
+This is a basic webscraper I wrote for my senior capstone. I decided to give it its own repository because I liked this project and I wanted to build on it more.
+<br>
+version 1.0.1-has an introductory function for users
