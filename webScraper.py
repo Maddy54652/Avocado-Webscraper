@@ -26,7 +26,7 @@ myHumblestOfRequests = requests.get(URLtoObtain,headers = headers)
 fileText = myHumblestOfRequests.text
 
 #creating a temporary html file
-f = open("temp.html", "w")
+f = open("index.html", "w")
 f.write(fileText)
 f.close()
 
